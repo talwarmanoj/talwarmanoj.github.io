@@ -1,2 +1,2 @@
 # talwarmanoj.github.io
-GiutHub Page of Manoj Talwar
+GitHub Page of Manoj Talwar
